@@ -173,7 +173,7 @@ Activity_main.xml:
 </LinearLayout>
 
 
-Practical 4:
+Practical 4:intent
 MainActivity.kt:
 package com.example.mayur_249663_4
 
@@ -368,7 +368,7 @@ activity_main2.xml:
 
 
 
-Practical 5
+Practical 5: life cycle
 
 MainActivity.kt:
 
@@ -504,7 +504,7 @@ activity_main2.xml:
 
 
 
-Practical 6:-
+Practical 6:-notification
 
 MainActivity.kt:
 
@@ -622,7 +622,7 @@ activity_main.xml:
 
 
 
-Practical 8:-
+Practical 8:-different views
 
 MainActivity.kt:
 
@@ -772,7 +772,7 @@ activity_main.xml:
 
 
 
-Practical 9:-
+Practical 9:-Date, time , alert
 
 MainActivity.kt:
 
@@ -1017,7 +1017,7 @@ activity_main.xml:
 </RelativeLayout>
 
 
-extra:
+build.gradle:
     kotlinOptions {
         jvmTarget = "11"
     }
